@@ -1,15 +1,12 @@
 [
   {
-    "id": "NewJob",
-    "date": {
-        "Date": "26/06/2025"
-         "title": "SSC CHSL(10+2) Recruitment online form 2025",
-         "ashi": "/sscchsl"
-    },
-    {
-        "date": "09 June 2025",
-        "title": "SSC CHSL(10+2) Recruitment online form 2025",
-        "ashi": "/sscchsl"
-    }
+    "date": "28 June 2025",
+    "title": "SSC GD Constable Final Result 2025",
+    "ashi": "/sscgdresult"
+  },
+  {
+    "date": "15 June 2025",
+    "title": "RRB Group D Stage II Result 2025",
+    "ashi": "/rrbgroupdresult"
   }
 ]

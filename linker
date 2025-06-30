@@ -1,14 +1,31 @@
 [
-{ id:"NewJob",
-data:{
-
-}
-
-},
+{ "id":"NewJob",
+  "data":{
+            {
+              "date": "26 June 2025",
+             "title": "SSC Multi-Tasking Staff (MTS) and Havaldar Online Form 2025",
+              "ashi": "/sscmts1",
+            },
+            {
+             "date": "26 June 2025",
+              "title": "SSC Multi-Tasking Staff (MTS) and Havaldar Online Form 2025",
+              "ashi": "/sscmts1",
+             },
+           {
+              "date": "26 June 2025",
+               "title": "SSC Multi-Tasking Staff (MTS) and Havaldar Online Form 2025",
+                "ashi": "/sscmts1",
+              },
+            {
+                "date": "26 June 2025",
+                "title": "SSC Multi-Tasking Staff (MTS) and Havaldar Online Form 2025",
+                "ashi": "/sscmts1",
+             }
+          },
    {
-    date: "26 June 2025",
-    title: "SSC Multi-Tasking Staff (MTS) and Havaldar Online Form 2025",
-    ashi: "/sscmts1",
+    "date": "26 June 2025",
+    "title": "SSC Multi-Tasking Staff (MTS) and Havaldar Online Form 2025",
+    "ashi": "/sscmts1",
   },
   {
     date: "20 June 2025",
@@ -20,29 +37,21 @@ data:{
     title: "SSC CGL Recruitment online form 2025",
     ashi: "/ssccgl",
   },
-  {
-    date: "01 March 2025",
-    title: "SSC (Staff Selection Commission) MTS/Havaldar Tier I Check Result Or Final Vacancy Details 2024",
-    ashi:"/sscmts"
-  },
-  {
-    date: "23 January 2025",
-    title: "Railway RRB Group D Apply Online Form 2025",
-    ashi:"/railwaygroupd"
-  },
-  {
-    date: "03 January 2025",
-    title: "Madhya Pradesh State Service Exam Online Form 2025",
-    ashi:"/mppsc1"
-  },
-  {
-    date: "26 December 2024",
-    title: "Rajasthan RPSC Senior Teacher Grade II TGT Teacher Recruitment Apply Online 2024",
-    ashi:"/rajasthantgtteacher1"
-  },
-  {
-    date: "15 December 2024",
-    title: "SBI (State Bank of India) Junior Associates Clerk Online Form 2024",
-    ashi:"/sbiclerk1"
-  },
+   {
+    "date": "26 June 2025",
+    "title": "SSC Multi-Tasking Staff (MTS) and Havaldar Online Form 2025",
+    "ashi": "/sscmts1",
+  }, {
+    "date": "26 June 2025",
+    "title": "SSC Multi-Tasking Staff (MTS) and Havaldar Online Form 2025",
+    "ashi": "/sscmts1",
+  }, {
+    "date": "26 June 2025",
+    "title": "SSC Multi-Tasking Staff (MTS) and Havaldar Online Form 2025",
+    "ashi": "/sscmts1",
+  }, {
+    "date": "26 June 2025",
+    "title": "SSC Multi-Tasking Staff (MTS) and Havaldar Online Form 2025",
+    "ashi": "/sscmts1",
+  }
 ]

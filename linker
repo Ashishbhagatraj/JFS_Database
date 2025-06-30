@@ -1,57 +1,31 @@
 [
-{ "id":"NewJob",
-  "data":{
-            {
-              "date": "26 June 2025",
-             "title": "SSC Multi-Tasking Staff (MTS) and Havaldar Online Form 2025",
-              "ashi": "/sscmts1",
-            },
-            {
-             "date": "26 June 2025",
-              "title": "SSC Multi-Tasking Staff (MTS) and Havaldar Online Form 2025",
-              "ashi": "/sscmts1",
-             },
-           {
-              "date": "26 June 2025",
-               "title": "SSC Multi-Tasking Staff (MTS) and Havaldar Online Form 2025",
-                "ashi": "/sscmts1",
-              },
-            {
-                "date": "26 June 2025",
-                "title": "SSC Multi-Tasking Staff (MTS) and Havaldar Online Form 2025",
-                "ashi": "/sscmts1",
-             }
-          },
-   {
-    "date": "26 June 2025",
-    "title": "SSC Multi-Tasking Staff (MTS) and Havaldar Online Form 2025",
-    "ashi": "/sscmts1",
+  {
+    "id": "NewJob",
+    "date": {
+        "Date": "26/06/2025",
+         "title": "SSC CHSL(10+2) Recruitment online form 2025",
+         "ashi": "/sscchsl"
+    },
+    "link": {
+        "date": "09 June 2025",
+        "title": "SSC CHSL(10+2) Recruitment online form 2025",
+        +"ashi": "/sscchsl"
+    }
   },
   {
-    date: "20 June 2025",
-    title: "SSC CHSL(10+2) Recruitment online form 2025",
-    ashi: "/sscchsl",
+    "id": 2,
+    "title": "Railway Group D 2025",
+    "description": "Railway Group D vacancies are out. Check details and apply before last date.",
+    "location": "India",
+    "apply_link": "https://www.rrb.gov.in",
+    "last_date": "2025-07-15"
   },
-   {
-    date: "09 June 2025",
-    title: "SSC CGL Recruitment online form 2025",
-    ashi: "/ssccgl",
-  },
-   {
-    "date": "26 June 2025",
-    "title": "SSC Multi-Tasking Staff (MTS) and Havaldar Online Form 2025",
-    "ashi": "/sscmts1",
-  }, {
-    "date": "26 June 2025",
-    "title": "SSC Multi-Tasking Staff (MTS) and Havaldar Online Form 2025",
-    "ashi": "/sscmts1",
-  }, {
-    "date": "26 June 2025",
-    "title": "SSC Multi-Tasking Staff (MTS) and Havaldar Online Form 2025",
-    "ashi": "/sscmts1",
-  }, {
-    "date": "26 June 2025",
-    "title": "SSC Multi-Tasking Staff (MTS) and Havaldar Online Form 2025",
-    "ashi": "/sscmts1",
+  {
+    "id": 3,
+    "title": "UP Police Constable 2025",
+    "description": "UP Police Constable 2025 online form available now.",
+    "location": "Uttar Pradesh",
+    "apply_link": "https://uppbpb.gov.in",
+    "last_date": "2025-07-20"
   }
 ]

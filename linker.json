@@ -1,4 +1,29 @@
 [
+    {
+    "id": "sociallink",
+    "data": [
+      {
+        "date": "26 June 2025",
+        "title": "SSC MTS / Havaldar Online Form 2025",
+        "link": "/sscmts1"
+      },
+        {
+        "date": "26 June 2025",
+        "title": "SSC MTS / Havaldar Online Form 2025",
+        "link": "/sscmts1"
+      },
+      {
+        "date": "20 June 2025",
+        "title": "SSC CHSL (10+2) Recruitment 2025",
+        "link": "/sscchsl"
+      },
+      {
+        "date": "09 June 2025",
+        "title": "SSC CGL Recruitment 2025",
+        "link": "/ssccgl"
+      }
+    ]
+  },
    {
     "id": "quicklink",
     "data": [

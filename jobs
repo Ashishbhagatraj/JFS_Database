@@ -14,13 +14,15 @@
         "Fee Payment Last Date": "25/07/2025",
         "Correction Window": "29/07/2025 to 31/07/2025",
         "Admit Card": "September 2025 (Tentative)"
-    },
-    "vacancydetails": {
-        "postname": "Havaldar","totalpost": "771","vacancydetails": "UR:25,OBC:87,SC:90,ST:23",
-        "postname": "chokidar","totalpost": "888","vacancydetails": "UR:24,OBC:87,SC:90,ST:23",
-        "postname": "multitasking","totalpost": "1245","vacancydetails": "UR:23,OBC:87,SC:90,ST:23",
-        "postname": "helper","totalpost": "9867","vacancydetails": "UR:22,OBC:87,SC:90,ST:23"
-    },
+    },   
+    {
+  "id": "vacancydetails",
+  "data": [{"postname": "Havaldar","totalpost": "771","vacancydetails": "UR:25,OBC:87,SC:90,ST:23" },
+          {"postname": "Chowkidar","totalpost": "888","vacancydetails": "UR:24,OBC:87,SC:90,ST:23"},
+          {"postname": "Multitasking","totalpost": "1245","vacancydetails": "UR:23,OBC:87,SC:90,ST:23"},
+          {"postname": "Helper","totalpost": "9867","vacancydetails": "UR:22,OBC:87,SC:90,ST:23"}]
+   },
+
     "link": {
         "Apply Online": "https://ssc.gov.in/candidate-portal/one-time-registration/home-page",
         "Official Notification": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/Notice_of_adv_mts_2025.pdf",

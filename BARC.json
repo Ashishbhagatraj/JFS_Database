@@ -1,7 +1,7 @@
 [
   {
     "id": "barc1",
-    "title": "Barc1 Havaldar Recruitment 2025",
+    "title": "barc 1 / Havaldar Recruitment 2025",
     "postname": "Multi-Tasking Staff (MTS) and Havaldar (CBIC & CBN)",
     "startdate": "26/06/2025",
     "lastdate": "26/06/2025",
@@ -15,11 +15,8 @@
              "Correction Window": "29/07/2025 to 31/07/2025",
              "Admit Card": "September 2025 (Tentative)"},   
     "vacancydetails": [
-             {"postname": "Technical Officer/C","totalpost": "212","vacancydetails": "UR: 88, OBC: 57, SC: 33, ST: 16, EWS: 18"},
-             {"postname": "Scientific Assistant/B","totalpost": "07","vacancydetails": "UR: 4, OBC: 2, SC: 1"}
-             {"postname": "Technician/B (Boiler Attendant)","totalpost": "24","vacancydetails": "UR: 12, OBC: 6, SC: 4, ST: 2"},
-             {"postname": "Stipendiary Trainee Cat I","totalpost": "981","vacancydetails": "UR: 400, OBC: 265, SC: 147, ST: 73, EWS: 96"},
-             {"postname": "Stipendiary Trainee Cat II","totalpost": "3150","vacancydetails": "UR: 1280, OBC: 850, SC: 473, ST: 236, EWS: 311"}],
+             {"postname": "Havaldar","totalpost": "771","vacancydetails": "UR:25,OBC:87,SC:90,ST:23"},
+             {"postname": "Multitasking","totalpost": "1245","vacancydetails": "UR:23,OBC:87,SC:90,ST:23"}],
     "link": {
              "Apply Online": "https://ssc.gov.in/candidate-portal/one-time-registration/home-page",
              "Official Notification": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/Notice_of_adv_mts_2025.pdf",
@@ -30,7 +27,7 @@
   
   {
     "id": "barc2",
-    "title": "Barc2 MTS1 / Havaldar Recruitment 2025",
+    "title": "barc 2 / Havaldar Recruitment 2025",
     "postname": "Multi-Tasking Staff (MTS) and Havaldar (CBIC & CBN)",
     "startdate": "26/06/2025",
     "lastdate": "26/06/2025",
@@ -43,12 +40,9 @@
              "Fee Payment Last Date": "25/07/2025",
              "Correction Window": "29/07/2025 to 31/07/2025",
              "Admit Card": "September 2025 (Tentative)"},   
-       "vacancydetails": [
-             {"postname": "Technical Officer/C","totalpost": "212","vacancydetails": "UR: 88, OBC: 57, SC: 33, ST: 16, EWS: 18"},
-             {"postname": "Scientific Assistant/B","totalpost": "07","vacancydetails": "UR: 4, OBC: 2, SC: 1"}
-             {"postname": "Technician/B (Boiler Attendant)","totalpost": "24","vacancydetails": "UR: 12, OBC: 6, SC: 4, ST: 2"},
-             {"postname": "Stipendiary Trainee Cat I","totalpost": "981","vacancydetails": "UR: 400, OBC: 265, SC: 147, ST: 73, EWS: 96"},
-             {"postname": "Stipendiary Trainee Cat II","totalpost": "3150","vacancydetails": "UR: 1280, OBC: 850, SC: 473, ST: 236, EWS: 311"}],
+    "vacancydetails": [
+             {"postname": "Havaldar","totalpost": "771","vacancydetails": "UR:25,OBC:87,SC:90,ST:23"},
+             {"postname": "Multitasking","totalpost": "1245","vacancydetails": "UR:23,OBC:87,SC:90,ST:23"}],
     "link": {
              "Apply Online": "https://ssc.gov.in/candidate-portal/one-time-registration/home-page",
              "Official Notification": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/Notice_of_adv_mts_2025.pdf",

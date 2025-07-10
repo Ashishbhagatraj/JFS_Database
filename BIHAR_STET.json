@@ -15,8 +15,8 @@
              "Correction Window": "29/07/2025 to 31/07/2025",
              "Admit Card": "September 2025 (Tentative)"},   
     "vacancydetails": [
-             {"postname": "Havaldar","totalpost": "771","vacancydetails": "UR:25,OBC:87,SC:90,ST:23"},
-             {"postname": "Multitasking","totalpost": "1245","vacancydetails": "UR:23,OBC:87,SC:90,ST:23"}],
+             {"postname": "Paper I","totalpost": "Secondary (Classes 9-10)","vacancydetails": "UR:25,OBC:87,SC:90,ST:23"},
+             {"postname": "Paper II","totalpost": "Higher Secondary (Classes 11-12)","vacancydetails": "UR:23,OBC:87,SC:90,ST:23"}],
     "link": {
              "Apply Online": "https://ssc.gov.in/candidate-portal/one-time-registration/home-page",
              "Official Notification": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/Notice_of_adv_mts_2025.pdf",
@@ -41,8 +41,8 @@
              "Correction Window": "29/07/2025 to 31/07/2025",
              "Admit Card": "September 2025 (Tentative)"},   
     "vacancydetails": [
-             {"postname": "Havaldar","totalpost": "771","vacancydetails": "UR:25,OBC:87,SC:90,ST:23"},
-             {"postname": "Multitasking","totalpost": "1245","vacancydetails": "UR:23,OBC:87,SC:90,ST:23"}],
+             {"postname": "PaperI","totalpost": "Secondary (Classes 9-10)","vacancydetails": "UR:50%,OBC:45%,SC:90,ST:23"},
+             {"postname": "PaperII","totalpost": "Higher Secondary (Classes 11-12)","vacancydetails": "UR:60%,OBC:87,SC:90,ST:23"}],
     "link": {
              "Apply Online": "https://ssc.gov.in/candidate-portal/one-time-registration/home-page",
              "Official Notification": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/Notice_of_adv_mts_2025.pdf",

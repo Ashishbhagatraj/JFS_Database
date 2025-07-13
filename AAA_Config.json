@@ -25,7 +25,7 @@
              {"title": "SSC MTS / Havaldar Online Form 2025","link": "/sscmts1"}]},
      {
     "id": "job",
-    "data": [{"title1": "SSC MTS","title2": "A","Online Form": "/sscmts1"},
+    "data": [{"title1": "SSC MTS","title2": "Apply Online","link": "/sscmts1"},
             {"title1": "sscmts","title2": "B","link": "/sscmts"},
             {"title1": "sscchsl","title2": "C","link": "/sscchsl"},
             {"title1": "sscgd","title2": "D","link": "/sscgd"},

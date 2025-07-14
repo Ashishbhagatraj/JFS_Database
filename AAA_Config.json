@@ -14,7 +14,7 @@
     "data": [{"title": "SSC CHSL Online Apply Form 2025","link": "/sscchsl2"},
              {"title": "SSC MTS / Quick link Form 2025","link": "/sscmts1"},
              {"title": "Bihar DCECE Polytechnic PE First Round Final Seat Allotment Result 2025 has been declared","link": "/biharpolytechnic1"},
-             {"title": "SSC MTS / Quick link Form 2025","link": "/sscMTS1"},
+             {"title": "Bihar Police CSBC Constable Download Admit Card 2025","link": "/biharpoliceconstable1"},
              {"title": "SSC MTS / Quick link Form 2025","link": "/sscmts1"},
              {"title": "SSC MTS / Havaldar Online Form 2025","link": "/sscmts1"},
              {"title": "SSC MTS / Quick link Form 2025","link": "/sscmts1"},
@@ -28,7 +28,7 @@
     "data": [{"title1": "SSC MTS","title2": "Apply Online","link": "/sscmts1"},
             {"title1": "SSC CHSL","title2": "Apply Online","link": "/sscchsl2"},
             {"title1": "Bihar Polytechnic","title2": "Check Result","link": "/biharpolytechnic1"},
-            {"title1": "sscgd","title2": "D","link": "/sscgd"},
+            {"title1": "Bihar Police","title2": "Admit Card","link": "/biharpoliceconstable1"},
             {"title1": "Job","title2": "E","link": "/sscmts1"},
             {"title1": "Job","title2": "F","link": "/sscmts1"},
             {"title1": "Job","title2": "G","link": "/sscmts1"},
@@ -68,7 +68,7 @@
             {"date": "26 June 2025","title": "SSC MTS / Havaldar Online Form 2025","link": "/sscmts1"}]},
     {
      "id": "governmentjob",
-    "data": [{"date": "26 June 2025","title": "Goverment Job","link": "/sscmts1"},
+    "data": [{"date": "30 June 2025","title": "Bihar Police CSBC Constable Download Admit Card 2025","link": "/biharpoliceconstable1"},
             {"date": "26 June 2025","title": "SSC MTS / Havaldar Online Form 2025","link": "/sscmts1"},
             {"date": "26 June 2025","title": "SSC MTS / Havaldar Online Form 2025","link": "/sscmts1"},
             {"date": "26 June 2025","title": "SSC MTS / Havaldar Online Form 2025","link": "/sscmts1"},
@@ -81,7 +81,7 @@
             {"date": "26 June 2025","title": "SSC MTS / Havaldar Online Form 2025","link": "/sscmts1"}]},
     {
      "id": "admitcard",
-    "data": [{"date": "26 June 2025","title": "SSC MTS / Havaldar Online Form 2025","link": "/sscmts1"},
+    "data": [{"date": "30 June 2025","title": "Bihar Police CSBC Constable Download Admit Card 2025","link": "/biharpoliceconstable1"},
             {"date": "26 June 2025","title": "SSC MTS / Havaldar Online Form 2025","link": "/sscmts1"},
             {"date": "26 June 2025","title": "SSC MTS / Havaldar Online Form 2025","link": "/sscmts1"},
             {"date": "26 June 2025","title": "SSC MTS / Havaldar Online Form 2025","link": "/sscmts1"},
@@ -90,7 +90,6 @@
     {
      "id": "result",
     "data": [{"date": "15 July 2025","title": "Bihar DCECE Polytechnic PE First Round Final Seat Allotment Result 2025 has been declared","link": "/biharpolytechnic1"},
-            {"date": "26 June 2025","title": "result","link": "/sscmts1"},
             {"date": "26 June 2025","title": "SSC MTS / Havaldar Online Form 2025","link": "/sscmts1"},
             {"date": "26 June 2025","title": "SSC MTS / Havaldar Online Form 2025","link": "/sscmts1"},
             {"date": "26 June 2025","title": "SSC MTS / Havaldar Online Form 2025","link": "/sscmts1"},
@@ -131,8 +130,8 @@
             {"date": "26 June 2025","title": "SSC MTS / Havaldar Online Form 2025","link": "/sscmts1"}]},
     {
      "id": "syllabus",
-    "data": [{"date": "15 July 2025","title": "Bihar DCECE Polytechnic Syllabus","link": "/biharpolytechnic1"},
-            {"date": "26 June 2025","title": "SSC MTS / Havaldar Online Form 2025","link": "/sscmts1"},
+    "data": [{"date": "15 July 2025","title": "Bihar DCECE Polytechnic Syllabus 2025","link": "/biharpolytechnic1"},
+            {"date": "30 June 2025","title": "Bihar Police CSBC Constable Syllabs 2025","link": "/biharpoliceconstable1"},
             {"date": "26 June 2025","title": "SSC MTS / Havaldar Online Form 2025","link": "/sscmts1"},
             {"date": "26 June 2025","title": "SSC MTS / Havaldar Online Form 2025","link": "/sscmts1"},
             {"date": "26 June 2025","title": "SSC MTS / Havaldar Online Form 2025","link": "/sscmts1"},
@@ -159,7 +158,7 @@
     {
      "id": "10th",
     "data": [{"date": "15 July 2025","title": "Bihar DCECE Polytechnic PE First Round Final Seat Allotment Result 2025 has been declared","link": "/biharpolytechnic1"},
-            {"date": "26 June 2025","title": "SSC MTS / Havaldar Online Form 2025","link": "/sscmts1"},
+            {"date": "30 June 2025","title": "Bihar Police CSBC Constable Download Admit Card 2025","link": "/biharpoliceconstable1"},
             {"date": "26 June 2025","title": "SSC MTS / Havaldar Online Form 2025","link": "/sscmts1"},
             {"date": "26 June 2025","title": "SSC MTS / Havaldar Online Form 2025","link": "/sscmts1"},
             {"date": "26 June 2025","title": "SSC MTS / Havaldar Online Form 2025","link": "/sscmts1"},

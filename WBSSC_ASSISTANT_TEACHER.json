@@ -1,13 +1,13 @@
 [
   {
-    "id": "bpsc1",
+    "id": "wbsscassistantteacher1",
     "title": "WBSSC Assistant Teacher Recruitment Online Form 2025",
     "postname": "WBSSC Assistant Teacher Recruitment",
     "startdate": "16 June 2025",
     "lastdate": "21 July 2025",
-    "description": "The SSC MTS 2025 Recruitment, conducted by the Staff Selection Commission (SSC), offers opportunities for 10th-pass candidates to join as Multi-Tasking Staff (MTS) in various government departments and as Havaldar in CBIC and CBN. The notification was released on June 26, 2025, announcing 1,075 Havaldar vacancies, with MTS vacancies to be updated later. Candidates aged 18–25 (MTS/CBN) or 18–27 (CBIC/some MTS posts) can apply from June 26 to July 24, 2025 via ssc.gov.in. The Computer-Based Test (CBT) is scheduled from September 20 to October 24, 2025. The selection process includes CBT (Session 1 & 2), PET/PST (for Havaldar), and Document Verification. The pay scale is ₹18,000–₹22,000 (Level 1, 7th Pay Commission), making it an attractive Sarkari Naukri option. Stay updated at ssc.gov.in for results and further announcements.[](https://www.shiksha.com/exams/ssc-mts-exam)[](https://www.careerpower.in/ssc-mts.html)[](https://www.shiksha.com/exams/ssc-mts-exam-notification)",
-    "totalpost": "1,075 (Havaldar) + MTS (TBD)",
-    "payscale": "₹18,000–₹22,000 (Level 1)",
+    "description": "The West Bengal Central School Service Commission (WBSSC) has launched the WBSSC Assistant Teacher Recruitment 2025 through the 2nd State Level Selection Test (SLST) to fill 35,726 Assistant Teacher vacancies in government‑aided secondary (Classes IX–X) and higher secondary (Classes XI–XII) schools across West Bengal, with online registration open from June 16 to July 14, 2025 on westbengalssc.com, offering a golden opportunity for B.Ed‑qualified graduates/postgraduates meeting the age criteria of 21–40 years (with applicable relaxations) to apply by paying a ₹500 application fee for General/OBC/EWS and ₹200 for SC/ST/PH candidates, and undergo a selection process comprising a written examination, academic qualification scoring, teaching experience evaluation, oral interview, and lecture demonstration for final merit-based appointment as per West Bengal pay structure; key SEO keywords include “WBSSC Assistant Teacher Recruitment 2025,” “WBSSC SLST 2025,” “West Bengal Assistant Teacher Vacancy 35726,” “WBSSC Assistant Teacher apply online,” and “WBSSC SLST exam date 2025,” ensuring aspirants begin preparations immediately and track updates on exam notifications, syllabus, admit cards, and results through the official portal for this high‑impact teaching recruitment drive that marks one of the largest SSC teacher job openings in West Bengal this year.",
+    "totalpost": "35,726",
+    "payscale": "₹33,400–₹42,586 ",
     "date": {
              "Start Date": "16 June 2025",
              "Last Date": "21 July 2025",
@@ -15,19 +15,19 @@
              "Exam Date": "To Be Declared Soon",
              "Admit Card": "To Be Declared Soon"},   
     "vacancydetails": [
-             {"postname": "Havaldar","totalpost": "771","vacancydetails": "UR:25,OBC:87,SC:90,ST:23"},
-             {"postname": "Multitasking","totalpost": "1245","vacancydetails": "UR:23,OBC:87,SC:90,ST:23"}],
+             {"postname": "Assistant Teachers (Classes IX-X)","totalpost": "23212","vacancydetails": "NA"},
+             {"postname": "Assistant Teachers (Classes XI-XII)","totalpost": "12514","vacancydetails": "NA"}],
     "link": {
-             "Apply Online": "https://ssc.gov.in/candidate-portal/one-time-registration/home-page",
-             "Official Notification": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/Notice_of_adv_mts_2025.pdf",
-             "Previous Year Paper": "https://www.careerpower.in/ssc-mts-previous-year-question-paper.html",
-             "Official Website": "https://ssc.gov.in/"}
+             "Apply Online": "https://www.westbengalssc.com/otr/login/?error=unauthorized",
+             "Official Notification": "http://old.westbengalssc.com/sscorg/wbssc/download/notice/Notice_Brochure%20_IXTOXII_2025_Final_16_June_2025_merged.pdf",
+             "Previous Year Paper": "https://www.careerpower.in/wbssc-slst-previous-year-question-papers.html",
+             "Official Website": "https://www.westbengalssc.com/otr/recruitment/"}
   },
 
   
   {
-    "id": "bpsc2",
-    "title": "bpsc2 / Havaldar Recruitment 2025",
+    "id": "wbsscassistantteacher2",
+    "title": "wbsscassistantteacher2 / Havaldar Recruitment 2025",
     "postname": "Multi-Tasking Staff (MTS) and Havaldar (CBIC & CBN)",
     "startdate": "26/06/2025",
     "lastdate": "26/06/2025",

@@ -14,7 +14,7 @@
              "Fee Payment Last Date": "28 July 2025",
              "Correction Window": "01-10 July 20255",
              "Exam Date": "To Be Declared Soon"},   
-    "vacancydetails Zone Wise": [
+    "vacancydetails": [
              {"postname": "RRB Ahemdabad WR","totalpost": "161","vacancydetails": "NA"},
              {"postname": "RRB Ajmer NWR","totalpost": "139","vacancydetails": "NA"},
              {"postname": "RRB Bangalore SWR","totalpost": "140","vacancydetails": "NA"},

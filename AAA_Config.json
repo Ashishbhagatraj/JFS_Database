@@ -18,7 +18,7 @@
              {"title": "WBSSC Assistant Teacher Recruitment Online Form 2025","link": "/wbsscassistantteacher1"},
              {"title": "Railway RRB Technician Gr-I & Grade-III Recruitment Online Form 2025","link": "/railwayrrbtechnician1"},
              {"title": "BPSC Special School Teacher Recruitment Online Form 2025","link": "/bpscspecialteacher1"},
-             {"title": "SSC CHSL (10+2) Recruitment 2025","link": "/sscchsl"},
+             {"title": "Railway RRC SWR Apprentice Recruitment Online Form 2025","link": "/railwayrrcswr1"},
              {"title": "SSC CGL Recruitment 2025","link": "/ssccgl"},
              {"title": "SSC MTS / Quick link Form 2025","link": "/sscmts1"},
              {"title": "SSC MTS / Havaldar Online Form 2025","link": "/sscmts1"},
@@ -32,7 +32,7 @@
             {"title1": "WBSSC Teacher","title2": "Apply Online","link": "/wbsscassistantteacher1"},
             {"title1": "RRB Technician","title2": "Apply Online","link": "/railwayrrbtechnician1"},
             {"title1": "BPSC Special Teacher","title2": "Apply Online","link": "/bpscspecialteacher1"},
-            {"title1": "Telegram","title2": "H","link": "/ssccgl" }]},
+            {"title1": "RRC SWR Apprentice","title2": "Apply Online","link": "/railwayrrcswr1" }]},
     {
       "id": "bankjob",
       "data": [{"date": "26 June 2025","title": "Bank Job","link": "/sscmts1"},
@@ -53,13 +53,8 @@
             {"date": "26 June 2025","title": "SSC MTS / Havaldar Online Form 2025","link": "/sscmts1"}]},
     {
      "id": "railwayjob",
-    "data": [{"date": "26 June 2025","title": "Railway RRB Technician Gr-I & Grade-III Recruitment 2025","link": "/railwayrrbtechnician1"},
-            {"date": "26 June 2025","title": "SSC MTS / Havaldar Online Form 2025","link": "/sscmts1"},
-            {"date": "26 June 2025","title": "SSC MTS / Havaldar Online Form 2025","link": "/sscmts1"},
-            {"date": "26 June 2025","title": "SSC MTS / Havaldar Online Form 2025","link": "/sscmts1"},
-            {"date": "26 June 2025","title": "SSC MTS / Havaldar Online Form 2025","link": "/sscmts1"},
-            {"date": "26 June 2025","title": "SSC MTS / Havaldar Online Form 2025","link": "/sscmts1"},
-            {"date": "26 June 2025","title": "SSC MTS / Havaldar Online Form 2025","link": "/sscmts1"}]},
+    "data": [{"date": "15 July 2025","title": "Railway RRC SWR Apprentice Recruitment Online Form 2025","link": "/railwayrrcswr1"},
+            {"date": "26 June 2025","title": "Railway RRB Technician Gr-I & Grade-III Recruitment 2025","link": "/railwayrrbtechnician1"}]},
     {
      "id": "sscjob",
     "data": [{"date": "20 June 2025","title": "SSC CHSL Online Form 2025","link": "/sscchsl2"},
@@ -71,7 +66,8 @@
             {"date": "29 June 2025","title": "WBSSC Assistant Teacher Recruitment Online Form 2025","link": "/wbsscassistantteacher1"}]},
  {
   "id": "newjob",
-    "data": [{"date": "02 July 2025","title": "BPSC Special School Teacher Recruitment Online Form 2025","link": "/bpscspecialteacher1"},
+    "data": [{"date": "15 July 2025","title": "Railway RRC SWR Apprentice Recruitment Online Form 2025","link": "/railwayrrcswr1"},
+            {"date": "02 July 2025","title": "BPSC Special School Teacher Recruitment Online Form 2025","link": "/bpscspecialteacher1"},
             {"date": "26 June 2025","title": "Railway RRB Technician Gr-I & Grade-III Recruitment 2025","link": "/railwayrrbtechnician1"},
             {"date": "20 June 2025","title": "SSC CHSL Online Form 2025","link": "/sscchsl2"},
             {"date": "19 June 2025","title": "WBSSC Assistant Teacher Recruitment Online Form 2025","link": "/wbsscassistantteacher1"},
@@ -127,7 +123,8 @@
             {"date": "26 June 2025","title": "SSC MTS / Havaldar Online Form 2025","link": "/sscmts1"}]},
     {
      "id": "syllabus",
-    "data": [{"date": "17 July 2025","title": "BPSC Special School Teacher Syllabus","link": "/bpscspecialteacher1"},
+    "data": [{"date": "18 July 2025","title": "Railway RRC SWR Apprentice Syllabus","link": "/railwayrrcswr1"},
+            {"date": "17 July 2025","title": "BPSC Special School Teacher Syllabus","link": "/bpscspecialteacher1"},
             {"date": "15 July 2025","title": "Bihar DCECE Polytechnic Syllabus","link": "/biharpolytechnic1"},
             {"date": "30 June 2025","title": "Bihar Police CSBC Constable Syllabs ","link": "/biharpoliceconstable1"},
             {"date": "26 June 2025","title": "SSC MTS / Havaldar Syllabus ","link": "/sscmts1"},
@@ -136,7 +133,8 @@
             {"date": "26 June 2025","title": "SSC CHSL(10+2) Syllabus","link": "/sscchsl1"}]},
     {
      "id": "diploma",
-    "data": [{"date": "15 July 2025","title": "Bihar DCECE Polytechnic PE First Round Final Seat Allotment Result 2025 has been declared","link": "/biharpolytechnic1"},
+    "data": [{"date": "15 July 2025","title": "Railway RRC SWR Apprentice Recruitment Online Form 2025","link": "/railwayrrcswr1"},
+            {"date": "15 July 2025","title": "Bihar DCECE Polytechnic PE First Round Final Seat Allotment Result 2025 has been declared","link": "/biharpolytechnic1"},
             {"date": "26 June 2025","title": "Railway RRB Technician Gr-I & Grade-III Recruitment 2025","link": "/railwayrrbtechnician1"},
             {"date": "26 June 2025","title": "SSC MTS / Havaldar Online Form 2025","link": "/sscmts1"},
             {"date": "26 June 2025","title": "SSC MTS / Havaldar Online Form 2025","link": "/sscmts1"},
